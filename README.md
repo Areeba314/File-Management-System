@@ -18,7 +18,11 @@ This File Management System provides a set of file handling operations using C a
 - **Ubuntu Subsystem**: Environment for running the application  
 
 ## Screenshots
-![main menu](screenshots/mainmenu.jpeg)
-**List all files**
-![list all files](screenshots/opt1.jpeg)
+- **Main Menu**
+- ![main menu](screenshots/main menu.jpeg)
+- **List all files**
+- ![list all files](screenshots/opt1.jpeg)
+- **Editing file content**
+- ![edit file content](screenshots/opt1.jpeg)
+  
 
