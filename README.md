@@ -19,4 +19,5 @@ This File Management System provides a set of file handling operations using C a
 
 ## Screenshots
 ![main menu](screenshots/mainmenu.jpeg)
+![list all files](screenshots/opt1.jpeg)
 
