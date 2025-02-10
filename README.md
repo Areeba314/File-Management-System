@@ -19,10 +19,16 @@ This File Management System provides a set of file handling operations using C a
 
 ## Screenshots
 - **Main Menu**
-- ![main menu](screenshots/main menu.jpeg)
+ ![main menu](screenshots/mainmenu.jpeg)
 - **List all files**
-- ![list all files](screenshots/opt1.jpeg)
+ ![list all files](screenshots/opt1.jpeg)
 - **Editing file content**
-- ![edit file content](screenshots/opt1.jpeg)
+ ![edit file content](screenshots/opt5.jpeg)
+- **Sorting files in directory**
+  ![sorting files in directory](screenshots/opt13.jpeg)
+- **Searching files in directory**
+ ![searching files in directory](screenshots/opt6.jpeg)
+
+  
   
 
