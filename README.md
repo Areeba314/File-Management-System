@@ -17,4 +17,6 @@ This File Management System provides a set of file handling operations using C a
 - **Bash Scripting**: For executing terminal-based commands  
 - **Ubuntu Subsystem**: Environment for running the application  
 
+## Screenshots
+![main menu](screenshots/main menu.jpeg)
 
